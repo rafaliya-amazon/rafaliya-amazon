@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafaliya-amazon
-- 👀 I’m interested in movies, music, outdoor sports and adventour. 
+- 👀 I’m interested in movies, music, outdoor sports and adventurous. 
 - 🌱 I’m enhancing my learning in Swift, Objective-C. 
 - 📫 How to reach me rafaliya@amazon.com
 
